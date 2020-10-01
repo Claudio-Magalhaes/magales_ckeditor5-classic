@@ -1,8 +1,0 @@
-Por motivo de erro interno no CKEditor, não é possível instalar as dependencias.
-
-A instalação das dependencias gera um erro de duplicidade que ainda não foi completamente solucionado.
-
-Está sendo utilizada a versão recebida pelo fabricante, sem a possibilidade de alteraçõs.
-
-O arquivos "CKEDITOR5.ZIP" contem a versão original recebida (mensionada anteriormente) para casos de erros futuros.
-
